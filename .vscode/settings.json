@@ -1,0 +1,17 @@
+{
+	"material-icon-theme.folders.associations": {
+		"_components": "Components",
+		"_constants": "Constant",
+		"_hooks": "Hook",
+		"_store": "Container",
+		"_types": "Typescript",
+		"_utils": "Utils",
+		"(routes)": "Routes",
+		"_layout": "Layout",
+		"_common": "Shared",
+		"_styles": "Css",
+		"_lib": "lib",
+		"_constant": "Constant",
+		"_static": "Static"
+	}
+}
