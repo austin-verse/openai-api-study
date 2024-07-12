@@ -13,8 +13,10 @@ export default function RootLayout({
 }>) {
 	return (
 		<html lang="en">
-			<body className="w-full flex items-center justify-center">
-				<main className="max-w-[450px] bg-red-400 w-full">{children}</main>
+			<body className="w-full h-screen flex items-center justify-center bg-slate-100">
+				<main className="max-w-[414px] h-full w-full px-[18px] bg-white">
+					{children}
+				</main>
 			</body>
 		</html>
 	);
